@@ -134,6 +134,3 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsm.dev/mbook-jsm" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
