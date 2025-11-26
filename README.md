@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/-Hostinger-674CC4?style=for-the-badge&logo=hostinger&logoColor=white" />
 
 
- 
-
 
 ## <a name="introduction">✨ Introduction</a>
 
@@ -95,8 +93,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
