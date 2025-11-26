@@ -21,11 +21,7 @@ Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showca
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **[CodeRabbit](https://jsm.dev/mbook-coderabbit)** is an AI-powered code review tool that integrates with IDEs like VS Code and Git platforms such as GitHub and GitLab. It provides real-time, context-aware feedback on pull requests, including line-by-line analysis, security vulnerability detection, and adherence to coding standards. CodeRabbit learns from your team's preferences, adapting its reviews over time to enhance code quality and developer productivity.
-
 - **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
-
-- **[Hostinger](https://jsm.dev/mbook-hostinger)** is a web hosting platform used in this project to deploy and manage the live website. Features include fast and reliable hosting, user-friendly control panel, one-click app installations, domain management, SSL certification, scalable server resources, and strong uptime guarantees to ensure smooth production deployment.
 
 - **[React](https://react.dev/)** is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
 
@@ -70,8 +66,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/marivate/gsap_macbook_landing.git
-cd gsap_macbook_landing
+git clone https://github.com/marivate/macbook.git
+cd macbook
 ```
 
 **Installation**
